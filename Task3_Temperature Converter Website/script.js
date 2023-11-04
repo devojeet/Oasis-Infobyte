@@ -1,3 +1,6 @@
+/* This is a web-based temperature calculator application which i built using HTML, CSS, and JavaScript.
+It allows users to convert temperatures between different units, such as Celsius, Fahrenheit, and Kelvin.  */
+
 const celciusEl = document.getElementById("Celcius");
 const fahrenheitEl = document.getElementById("Fahrenheit");
 const kelvinEl = document.getElementById("Kelvin");
